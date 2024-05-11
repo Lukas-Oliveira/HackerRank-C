@@ -1,3 +1,7 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/pointer-in-c/problem
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
