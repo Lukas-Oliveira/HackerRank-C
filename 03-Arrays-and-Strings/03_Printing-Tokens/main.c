@@ -1,3 +1,7 @@
+/**
+ * Link: https://www.hackerrank.com/challenges/printing-tokens-/problem
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
